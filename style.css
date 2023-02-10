@@ -1,0 +1,152 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.half {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+.halfs img {
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 0%;
+}
+
+.orange {
+    color: orange;
+}
+
+.border {
+    border-left: 4px solid orange;
+    padding-left: 5px;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.button {
+    background-color: rgb(255, 89, 89);
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    text-decoration: 0;
+    color: white;
+}
+
+.navy {
+    color: rgb(20, 20, 46);
+}
+
+.orange1 {
+    color: orange;
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.flex2 {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.movie {
+    background-color: rgb(225, 239, 245);
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.movie img {
+    width: 50%;
+}
+
+.singer {
+    background-color: rgb(233, 207, 216);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.singer img {
+    width: 50%;
+}
+
+.hobby {
+    background-color: rgb(236, 216, 178);
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.hobby img {
+    width: 50%;
+}
+
+.flex3 {
+    display: flex;
+}
+
+.halfw {
+    width: 50%;
+}
+
+.halfi img {
+    width: 85%;
+    padding-left: 37px;
+}
+
+.halfi2 img {
+    width: 85%;
+    margin-top: 5%;
+    margin-right: 37px;
+}
+
+.line {
+    margin: 10px 10% 10px 50px;
+}
+
+.line2 {
+    margin: 10px 0px 10px 50px;
+    padding: 0px 100px 0px 0px;
+
+}
+
+.justify {
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(26, 26, 34);
+    margin-bottom: 0;
+    padding: 30px 0 30px 0;
+
+}
+
+.color2023 {
+    color: #ff5959;
+}
+
+
+footer p {
+    margin-bottom: 0;
+    padding-bottom: 26px;
+}
